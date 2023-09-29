@@ -1,0 +1,16 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "preamble.xdv" "preamble.pdf" "preamble" 0 -1
+  "preamble.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "preamble.pdf"
+  (rewritten before read)
+["xelatex"] 1691520669 "e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex" "preamble.xdv" "preamble" 1691520669 2
+  "C:/Users/Amir/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1690536468 37396908 82d07ba7f27b6b561c32a0d1ded62475 ""
+  "e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex" 1691520504 2309 b8624d5e6b9e9b4e7963deec279e0e48 ""
+  "preamble.aux" 1691520669 34 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "preamble.tex" 1691520504 2309 b8624d5e6b9e9b4e7963deec279e0e48 ""
+  (generated)
+  "preamble.aux"
+  "preamble.log"
+  "preamble.xdv"
+  (rewritten before read)

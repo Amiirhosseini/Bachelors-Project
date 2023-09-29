@@ -1,0 +1,16 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "chap3.xdv" "chap3.pdf" "chap3" 0 -1
+  "chap3.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "chap3.pdf"
+  (rewritten before read)
+["xelatex"] 1692361739 "e:/in progress 2/bachelors project/LaTeX Files amirreza/chap3.tex" "chap3.xdv" "chap3" 1692361740 2
+  "C:/Users/Amir/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1690536468 37396908 82d07ba7f27b6b561c32a0d1ded62475 ""
+  "chap3.aux" 1692361739 34 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "chap3.tex" 1692361725 9395 02beef93e88790ec90f81735d577d4ed ""
+  "e:/in progress 2/bachelors project/LaTeX Files amirreza/chap3.tex" 1692361725 9395 02beef93e88790ec90f81735d577d4ed ""
+  (generated)
+  "chap3.aux"
+  "chap3.log"
+  "chap3.xdv"
+  (rewritten before read)

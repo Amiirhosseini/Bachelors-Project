@@ -1,0 +1,26 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1-1}{\ignorespaces معماری یک شبکه یادگیری فدرال}}{4}{figure.1.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces یادگیری متمرکز}}{7}{figure.2.1}%
+\contentsline {figure}{\numberline {2-2}{\ignorespaces یادگیری غیر متمرکز}}{8}{figure.2.2}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces یادگیری توزیع شده}}{9}{figure.2.3}%
+\contentsline {figure}{\numberline {2-4}{\ignorespaces شمایی از یادگیری فدرال در اینترنت اشیاء}}{9}{figure.2.4}%
+\contentsline {figure}{\numberline {2-5}{\ignorespaces نمونه ی بخش بندی معنایی در ماشین های خودران}}{12}{figure.2.5}%
+\contentsline {figure}{\numberline {2-6}{\ignorespaces معماری یک شبکه کانولوشنی}}{13}{figure.2.6}%
+\contentsline {figure}{\numberline {2-7}{\ignorespaces دیاگرام یک شبکه دارای پردازش لبه}}{14}{figure.2.7}%
+\contentsline {figure}{\numberline {2-8}{\ignorespaces انواع قرار گیری المان‌های اصلی در شبکه اینترنت اشیاء}}{15}{figure.2.8}%
+\contentsline {figure}{\numberline {2-9}{\ignorespaces کاربرد‌های یادگیری فدرال در اینترنت اشیاء}}{16}{figure.2.9}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3-1}{\ignorespaces نمونه‌ای از تصاویر دیتاست CIFAR10}}{18}{figure.3.1}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces ساختار شبکه عصبی کانولوشن استفاده شده در مسئله ۱۰ کلاسه}}{19}{figure.3.2}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces نمونه‌ای از پیاده سازی یادگیری فدرال روی دستگاه‌های تعبیه شده}}{20}{figure.3.3}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces استفاده از nginx به عنوان پروکسی سرور}}{21}{figure.3.4}%
+\contentsline {figure}{\numberline {3-5}{\ignorespaces محیط شبیه‌سازی شده در محیط نرم‌افزار \lr {GNS3}}}{22}{figure.3.5}%
+\contentsline {figure}{\numberline {3-6}{\ignorespaces نمونه‌ای از اجرای فرایند یادگیری و تست توسط یک شبکه ساده دارای دو کارگر}}{23}{figure.3.6}%
+\contentsline {figure}{\numberline {3-7}{\ignorespaces نمونه‌ای از کنسول یک کارگر در حال اجرای یادگیری فدرال}}{24}{figure.3.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-1}{\ignorespaces ماتریس درهم‌ریختگی برای مسئله با دو دسته}}{26}{figure.4.1}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces نمودار دقت به‌دست آمده در هر دور از آموزش سراسری}}{27}{figure.4.2}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces نمودار خطا در هر دور از آموزش سراسری }}{28}{figure.4.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {آ-1}{\ignorespaces سناریو‌ای از اجرای پروتکل SAFA در ۳ دور}}{33}{figure.Alph1.1}%

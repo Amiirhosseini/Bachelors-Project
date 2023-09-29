@@ -1,0 +1,430 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.7.28)  8 AUG 2023 22:21
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex"
+(e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:8: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \usepackage{
+                algorithm}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:9: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \usepackage{
+                amsmath}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:10: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \usepackage[noend]{
+                        algpseudocode}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:11: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \usepackage{
+                 amsthm,amssymb,amsmath}^^I^^I^^I% Writing math
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:12: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \usepackage{
+                 epsf,graphicx}^^I^^I^^I^^I^^I^^I^^I^^I^^I% Including graphics
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:13: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \usepackage[a4paper]{
+                          geometry}^^I^^I^^I^^I^^I^^I^^I% Fixing page layout...
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:14: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \usepackage{
+                 titlesec}^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I% Change chapter ...
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:15: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \usepackage{
+                 setspace}^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I% Change line spa...
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:16: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \usepackage[stable,bottom]{
+                                footmisc}^^I^^I^^I^^I^^I% Move footnotes to ...
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:18: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \usepackage{
+                 zref-perpage}^^I^^I^^I^^I^^I^^I^^I^^I^^I% Reset footnote co...
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:19: Undefined control sequence.
+l.19 \zmakeperpage
+                  [1]{footnote}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:19: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \zmakeperpage[
+                   1]{footnote}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--20
+[] 
+ []
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:21: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \usepackage{
+                 xepersian}^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I% Persian
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:22: Undefined control sequence.
+l.22 \settextfont
+                 {XB Zar}^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I% Persian font
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:22: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \settextfont{X
+                   B Zar}^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I% Persian font
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no X in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--23
+[]
+ []
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:32: Undefined control sequence.
+l.32 \setfootnoteLR
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:37: LaTeX Error: Command \@makefntext undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \renewcommand\@makefntext
+                              [1]{%
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:44: Undefined control sequence.
+l.44 \SepMark
+             {-}^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:44: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \SepMark{-
+               }^^I^^I^^I^^I^^I^^I^^I^^I^^I^^I
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no - in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 44--45
+[] 
+ []
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:48: Undefined control sequence.
+l.48 \titlespacing
+                  *{\section}{0pt}{1cm}{0.2cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:48: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \titlespacing*
+                   {\section}{0pt}{1cm}{0.2cm}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:48: Undefined control sequence.
+l.48 \titlespacing*{\section
+                            }{0pt}{1cm}{0.2cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:49: Undefined control sequence.
+l.49 \titleformat
+                 {\section}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:49: Undefined control sequence.
+l.49 \titleformat{\section
+                          }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
+(Font)              using `TU/lmr/bx/n' instead on input line 50.
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:50: Undefined control sequence.
+l.50 ...tsize{12}{6}\scshape\bfseries}{\thesection
+                                                  }{1em}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 48--51
+[]
+ []
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:52: Undefined control sequence.
+l.52 \titlespacing
+                  *{\subsection}{0pt}{.8cm}{0cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:52: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \titlespacing*
+                   {\subsection}{0pt}{.8cm}{0cm}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:52: Undefined control sequence.
+l.52 \titlespacing*{\subsection
+                               }{0pt}{.8cm}{0cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:53: Undefined control sequence.
+l.53 \titleformat
+                 {\subsection}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:53: Undefined control sequence.
+l.53 \titleformat{\subsection
+                             }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/in progress 2/bachelors project/LaTeX Files amirreza/preamble.tex:54: Undefined control sequence.
+l.54 ...ze{11}{6}\scshape\bfseries}{\thesubsection
+                                                  }{1em}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 52--55
+[]
+ []
+
+)
+! Emergency stop.
+<*> ... project/LaTeX Files amirreza/preamble.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 40 strings out of 410678
+ 887 string characters out of 5799813
+ 1908869 words of memory out of 5000000
+ 21153 multiletter control sequences out of 15000+600000
+ 558101 words of font info for 40 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 15i,1n,20p,175b,125s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.

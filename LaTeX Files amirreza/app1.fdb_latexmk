@@ -1,0 +1,16 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "app1.xdv" "app1.pdf" "app1" 0 -1
+  "app1.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "app1.pdf"
+  (rewritten before read)
+["xelatex"] 1690700489 "e:/in progress 2/bachelors project/LaTeX Files amirreza/app1.tex" "app1.xdv" "app1" 1690700490 2
+  "C:/Users/Amir/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1690536468 37396908 82d07ba7f27b6b561c32a0d1ded62475 ""
+  "app1.aux" 1690700489 34 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "app1.tex" 1690700486 1662 5178149fe611cc0cccadec6ed2877481 ""
+  "e:/in progress 2/bachelors project/LaTeX Files amirreza/app1.tex" 1690700486 1662 5178149fe611cc0cccadec6ed2877481 ""
+  (generated)
+  "app1.aux"
+  "app1.log"
+  "app1.xdv"
+  (rewritten before read)

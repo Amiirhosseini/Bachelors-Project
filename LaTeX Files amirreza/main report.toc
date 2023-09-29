@@ -1,0 +1,35 @@
+\textbf {\relax $\@@underline {\hbox {\beginR عنوان\endR }}\mathsurround \z@ $\relax }
+\hfill \textbf {\relax $\@@underline {\hbox {\beginR صفحه\endR }}\mathsurround \z@ $\relax }\par 
+\contentsline {section}{فهرست مطالب}{پنج}{Doc-Start}%
+\contentsline {section}{فهرست تصاویر}{هفت}{chapter*.1}%
+\contentsline {section}{چکیده}{1}{chapter*.2}%
+\contentsline {chapter}{فصل\nobreakspace {}\numberline {اول\,: مقدمه}}{2}{chapter.1}%
+\contentsline {section}{\numberline {1-1}موضوع پژوهش و مسئله}{3}{section.1.1}%
+\contentsline {section}{\numberline {1-2}پیشینه تحقیق}{4}{section.1.2}%
+\contentsline {section}{\numberline {1-3}اهداف و دستاوردهای تحقیق}{5}{section.1.3}%
+\contentsline {section}{\numberline {1-4}ساختار گزارش}{5}{section.1.4}%
+\contentsline {chapter}{فصل\nobreakspace {}\numberline {دوم\,: پیش زمینه و مروری بر مطالعات انجام شده}}{6}{chapter.2}%
+\contentsline {section}{\numberline {2-1}نگاه نزدیک‌تر به الگوریتم‌های یادگیری}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2-1-1}یادگیری متمرکز}{7}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2-1-2}یادگیری غیرمتمرکز}{8}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2-1-3}یادگیری توزیع شده}{8}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2-1-4}یادگیری فدرال}{9}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2-1-5}الگوریتم FedAVG }{10}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2-2}شبکه عصبی کانولوشنی}{11}{section.2.2}%
+\contentsline {section}{\numberline {2-3}پردازش لبه}{13}{section.2.3}%
+\contentsline {subsection}{\numberline {2-3-1}معماری‌های متنوع پردازش لبه}{15}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2-4}یادگیری فدرال در اینترنت اشیاء}{15}{section.2.4}%
+\contentsline {section}{\numberline {2-5}جمع بندی}{16}{section.2.5}%
+\contentsline {chapter}{فصل\nobreakspace {}\numberline {سوم\,: چارچوب کاری پروژه}}{17}{chapter.3}%
+\contentsline {section}{\numberline {3-1}مجموعه داده تعریف شده در مسئله}{17}{section.3.1}%
+\contentsline {section}{\numberline {3-2}مدل استفاده شده برای حل مسئله}{18}{section.3.2}%
+\contentsline {section}{\numberline {3-3}محیط توسعه استفاده شده }{19}{section.3.3}%
+\contentsline {section}{\numberline {3-4}پروتکل‌های انتقال داده در شبکه}{21}{section.3.4}%
+\contentsline {section}{\numberline {3-5}محیط شبیه‌سازی پیاده شده}{22}{section.3.5}%
+\contentsline {chapter}{فصل\nobreakspace {}\numberline {چهارم\,: نتیجه‌گیری و پیشنهادها}}{25}{chapter.4}%
+\contentsline {section}{\numberline {4-1}معرفی معیارهای مختلف}{25}{section.4.1}%
+\contentsline {section}{\numberline {4-2}نتایج به‌دست آمده}{27}{section.4.2}%
+\contentsline {section}{\numberline {4-3} پیشنهادها برای آینده}{29}{section.4.3}%
+\contentsline {chapter}{پیوست\nobreakspace {}\numberline {اول\,: پروتکل SAFA }}{32}{appendix.Alph1}%
+\contentsline {chapter}{مراجع}{35}{figure.Alph1.1}%
+\contentsline {chapter}{چکیده انگلیسی}{38}{appendix*.3}%
